@@ -1,16 +1,13 @@
 ## Hi there 👋
+I am Bivanshu Dash , a pre-final year CSE student.
 
-<!--
-**BivanshuDash/BivanshuDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a DDos protection architecture system for Cloud
+- 🌱 I’m currently learning Devops
+- 🤔 I’m looking for help for becoming an SRE
+- 💬 Ask me about cloud computing
+- 📫 How to reach me: rishiid1023@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Am spontaneous
+- am an avid piano enthusiast and a music lover too!!
+- I do poetry, prose and play keyboard too
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
